@@ -1,6 +1,5 @@
 #'@name plutils-package
 #'@aliases plutils-package plutils
-#'@docType package
 #'@title Plotting with Style
 #'@description
 #'  Provides utilities for handling plot and graphic parameters,
@@ -29,6 +28,7 @@
 #'   \cr\code{\link{firstclass<-}} \tab add a class to an object and forward this class 
 #'  \cr\tab to the first place in the object's class list
 #'  }
-#'@author Ute Hahn, \email{ute@@imf.au.dk}
+#'@author Ute Hahn, \email{ute@@math.au.dk}
 # @examples
-NA
+"_PACKAGE"
+NULL

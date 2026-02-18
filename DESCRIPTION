@@ -1,7 +1,7 @@
 Package: plutils
 Type: Package
 Title: Tools for plotting with style 
-Version: 0.3.1-1
+Version: 0.3.1-2
 Date: 2015-06-06
 Author: Ute Hahn
 Maintainer: Ute Hahn <ute@math.au.dk>
@@ -10,3 +10,5 @@ Description: Provides utilities for handling plot and graphic parameters,
   Plotting with style: plot parameters can be given as lists.
 License: GPL-2
 LazyData: yes
+RoxygenNote: 7.3.3
+Encoding: UTF-8
